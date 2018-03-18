@@ -1,0 +1,39 @@
+\BOOKMARK [0][-]{Doc-Start}{Abstract}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{Acknowledgements}{}% 2
+\BOOKMARK [0][-]{chapter*.4}{List of Figures}{}% 3
+\BOOKMARK [0][-]{chapter*.5}{List of Tables}{}% 4
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 5
+\BOOKMARK [0][-]{chapter.2}{Related Work}{}% 6
+\BOOKMARK [0][-]{chapter.3}{Datasets}{}% 7
+\BOOKMARK [1][-]{section.3.1}{FER+}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.2}{Extended Cohn-Kanade \(CK+\)}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.3}{IMDB-WIKI 500+}{chapter.3}% 10
+\BOOKMARK [0][-]{chapter.4}{Architectures}{}% 11
+\BOOKMARK [1][-]{section.4.1}{VGG}{chapter.4}% 12
+\BOOKMARK [1][-]{section.4.2}{GoogLeNet/Inception}{chapter.4}% 13
+\BOOKMARK [1][-]{section.4.3}{Residual Networks}{chapter.4}% 14
+\BOOKMARK [2][-]{subsection.4.3.1}{ResNet}{section.4.3}% 15
+\BOOKMARK [2][-]{subsection.4.3.2}{DenseNet}{section.4.3}% 16
+\BOOKMARK [2][-]{subsection.4.3.3}{Wide ResNet}{section.4.3}% 17
+\BOOKMARK [0][-]{chapter.5}{Transfer Learning}{}% 18
+\BOOKMARK [0][-]{chapter.6}{Multi-task learning}{}% 19
+\BOOKMARK [1][-]{section.6.1}{Hard parameter sharing}{chapter.6}% 20
+\BOOKMARK [1][-]{section.6.2}{Soft parameter sharing}{chapter.6}% 21
+\BOOKMARK [0][-]{chapter.7}{Experiments \046 Results}{}% 22
+\BOOKMARK [1][-]{section.7.1}{State-of-the-art Architecture}{chapter.7}% 23
+\BOOKMARK [1][-]{section.7.2}{VGG-13}{chapter.7}% 24
+\BOOKMARK [1][-]{section.7.3}{VGG-16}{chapter.7}% 25
+\BOOKMARK [1][-]{section.7.4}{VGG-19}{chapter.7}% 26
+\BOOKMARK [1][-]{section.7.5}{ResNet-18}{chapter.7}% 27
+\BOOKMARK [1][-]{section.7.6}{ResNet-34}{chapter.7}% 28
+\BOOKMARK [1][-]{section.7.7}{ResNet-50}{chapter.7}% 29
+\BOOKMARK [1][-]{section.7.8}{DenseNet}{chapter.7}% 30
+\BOOKMARK [1][-]{section.7.9}{Wide ResNet}{chapter.7}% 31
+\BOOKMARK [1][-]{section.7.10}{Transfer Learning}{chapter.7}% 32
+\BOOKMARK [2][-]{subsection.7.10.1}{Using pre-trained CNN features}{section.7.10}% 33
+\BOOKMARK [2][-]{subsection.7.10.2}{Fine-tuning}{section.7.10}% 34
+\BOOKMARK [1][-]{section.7.11}{Multi-task Learning}{chapter.7}% 35
+\BOOKMARK [1][-]{section.7.12}{Discussion on the Results}{chapter.7}% 36
+\BOOKMARK [0][-]{chapter.8}{Best Architecture}{}% 37
+\BOOKMARK [0][-]{chapter.9}{Conclusion}{}% 38
+\BOOKMARK [0][-]{chapter*.40}{Bibliography}{}% 39

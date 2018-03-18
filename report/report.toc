@@ -1,0 +1,43 @@
+\contentsline {chapter}{Abstract}{i}{Doc-Start}
+\contentsline {chapter}{Acknowledgements}{iii}{chapter*.2}
+\contentsline {chapter}{List of Figures}{vii}{chapter*.4}
+\contentsline {chapter}{List of Tables}{ix}{chapter*.5}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Related Work}{5}{chapter.2}
+\contentsline {chapter}{\numberline {3}Datasets}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}FER+}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}Extended Cohn-Kanade (CK+)}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}IMDB-WIKI 500+}{9}{section.3.3}
+\contentsline {chapter}{\numberline {4}Architectures}{11}{chapter.4}
+\contentsline {section}{\numberline {4.1}VGG}{11}{section.4.1}
+\contentsline {section}{\numberline {4.2}GoogLeNet/Inception}{12}{section.4.2}
+\contentsline {section}{\numberline {4.3}Residual Networks}{12}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}ResNet}{13}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}DenseNet}{13}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Wide ResNet}{15}{subsection.4.3.3}
+\contentsline {chapter}{\numberline {5}Transfer Learning}{17}{chapter.5}
+\contentsline {chapter}{\numberline {6}Multi-task learning}{19}{chapter.6}
+\contentsline {section}{\numberline {6.1}Hard parameter sharing}{20}{section.6.1}
+\contentsline {section}{\numberline {6.2}Soft parameter sharing}{20}{section.6.2}
+\contentsline {chapter}{\numberline {7}Experiments \& Results}{21}{chapter.7}
+\contentsline {section}{\numberline {7.1}State-of-the-art Architecture}{21}{section.7.1}
+\contentsline {section}{\numberline {7.2}VGG-13}{23}{section.7.2}
+\contentsline {section}{\numberline {7.3}VGG-16}{23}{section.7.3}
+\contentsline {section}{\numberline {7.4}VGG-19}{23}{section.7.4}
+\contentsline {section}{\numberline {7.5}ResNet-18}{25}{section.7.5}
+\contentsline {section}{\numberline {7.6}ResNet-34}{25}{section.7.6}
+\contentsline {section}{\numberline {7.7}ResNet-50}{25}{section.7.7}
+\contentsline {section}{\numberline {7.8}DenseNet}{26}{section.7.8}
+\contentsline {section}{\numberline {7.9}Wide ResNet}{26}{section.7.9}
+\contentsline {section}{\numberline {7.10}Transfer Learning}{26}{section.7.10}
+\contentsline {subsection}{\numberline {7.10.1}Using pre-trained CNN features}{27}{subsection.7.10.1}
+\contentsline {subsubsection}{VGG16 pretrained on ImageNet}{27}{section*.28}
+\contentsline {subsubsection}{ResNet50 and InceptionV3 pretrained on ImageNet}{28}{section*.31}
+\contentsline {subsubsection}{VGG16 pretrained for face recognition}{28}{section*.32}
+\contentsline {subsection}{\numberline {7.10.2}Fine-tuning}{28}{subsection.7.10.2}
+\contentsline {subsubsection}{VGG16 pretrained on ImageNet and for Face Recognition}{28}{section*.33}
+\contentsline {section}{\numberline {7.11}Multi-task Learning}{29}{section.7.11}
+\contentsline {section}{\numberline {7.12}Discussion on the Results}{29}{section.7.12}
+\contentsline {chapter}{\numberline {8}Best Architecture}{33}{chapter.8}
+\contentsline {chapter}{\numberline {9}Conclusion}{35}{chapter.9}
+\contentsline {chapter}{Bibliography}{37}{chapter*.40}

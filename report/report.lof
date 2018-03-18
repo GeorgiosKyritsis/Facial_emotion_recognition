@@ -1,0 +1,34 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Neural Network Schematic\relax }}{2}{figure.caption.6}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Convolutional Neural Network Schematic\relax }}{4}{figure.caption.7}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces FER vs FER+ examples. Top labels are FER and bottom labels are FER+ (after majority voting). Figure taken from\nobreakspace {}\cite {barsoum2016training}.\relax }}{7}{figure.caption.8}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Examples of the Fer+ dataset. Each row consists of faces of the same emotion, starting from top row: neutral, happiness, surprise, sadness, anger, disgust, fear, and contempt.\relax }}{8}{figure.caption.9}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Examples of the CK+ dataset. From left to right: (a) Anger AU 4, 7, 17, 23, 24, (b) Contempt AU 14, 15, 24, (c) Disgust AU 9, 15, 17, 24, (d) Fear AU 1, 4, 7, 20, 25, (e) Happy AU 6, 12, 16, 25, (f) Sadness AU 1, 2, 4, 15, 17, (g) Surprise AU 1, 2, 5, 25, 27\relax }}{9}{figure.caption.10}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Examples of the IMDB-WIKI dataset.\relax }}{9}{figure.caption.12}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces AlexNet architecture\relax }}{11}{figure.caption.14}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces VGG16 architecture\relax }}{12}{figure.caption.15}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The inception module used in GoogLeNet.\relax }}{12}{figure.caption.16}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Normal CNN connections vs CNN with residual connections\relax }}{13}{figure.caption.17}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces (a) original Residual Unit, (b) enhanced Residual Unit. Extracted from\nobreakspace {}\cite {he2016identity}\relax }}{14}{figure.caption.18}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces A 5-layer dense block with a growth rate of $k = 4$. Each layer takes as input the feature maps from all previous layers. Extracted from\nobreakspace {}\cite {huang2017densely}\relax }}{14}{figure.caption.19}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Feature extraction from Convolutional Neural Network.\relax }}{18}{figure.caption.20}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Feature extraction from a pre-trained Convolutional Neural Network.\relax }}{18}{figure.caption.21}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Fine-tuning the pre-trained network.\relax }}{18}{figure.caption.22}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Hard parameter sharing for multi-task learning in deep neural networks\relax }}{19}{figure.caption.23}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Soft parameter sharing for multi-task learning in deep neural networks\relax }}{20}{figure.caption.24}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces State of the Art Architecture\relax }}{22}{figure.caption.25}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces VGG Architectures\relax }}{24}{figure.caption.26}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Examples of conversion from grayscale to RGB images\relax }}{26}{figure.caption.27}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Examples of conversion from grayscale to RGB images\relax }}{27}{figure.caption.29}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Illustration of the proposed method for transfer learning.\relax }}{27}{figure.caption.30}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Fine-tuning VGG16 architecture.\relax }}{28}{figure.caption.34}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Multi-task learning\relax }}{30}{figure.caption.35}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Final Algorithm.\relax }}{34}{figure.caption.39}
+\addvspace {10\p@ }

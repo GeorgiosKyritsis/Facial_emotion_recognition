@@ -1,0 +1,69 @@
+\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]{geometry}
+
+\usepackage{hyperref}
+\usepackage[inline]{enumitem}
+\usepackage{geometry}
+\usepackage{adjustbox}
+\usepackage{subcaption}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancyhf{}
+\fancyhead[LE]{\textsc{\leftmark}}
+\fancyhead[RO]{\textsc{\rightmark}}
+\fancyfoot{}
+\fancyfoot[LE,RO]{\thepage}
+%\fancyfoot[LO,RE]{G. Kyritsis}
+
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\renewcommand{\chaptermark}[1]{\markboth{\chaptername~\thechapter:~ #1}{}}
+
+
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{{images/}}
+
+\usepackage{afterpage}
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    %\addtocounter{page}{-1}%
+    \newpage}
+
+\usepackage{filecontents}
+
+%Includes "References" in the table of contents
+\usepackage[nottoc]{tocbibind}
+
+%Import the natbib package and sets a bibliography style
+\usepackage[sort,square,numbers]{natbib}
+\bibliographystyle{abbrvnat}
+
+\usepackage{amsmath}
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+
+\algdef{SE}[DOWHILE]{Do}{doWhile}{\algorithmicdo}[1]{\algorithmicwhile\ #1}%
+
+\makeatletter
+    \setlength\@fptop{0\p@}
+\makeatother
+
+\usepackage{graphicx}
+\usepackage[normalem]{ulem}
+\useunder{\uline}{\ul}{}
+
+\usepackage{amssymb}% http://ctan.org/pkg/amssymb
+\usepackage{pifont}% http://ctan.org/pkg/pifont
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+
+\usepackage{longtable}
+\usepackage{rotating}
+\usepackage{pdflscape} %landscape single pages
+
+\usepackage{multirow}
+\usepackage[thinlines]{easytable}
+
+\usepackage{multicol}

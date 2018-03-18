@@ -1,0 +1,334 @@
+\begin{thebibliography}{49}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Azizpour et~al.(2016)Azizpour, Razavian, Sullivan, Maki, and
+  Carlsson]{azizpour2016factors}
+H.~Azizpour, A.~S. Razavian, J.~Sullivan, A.~Maki, and S.~Carlsson.
+\newblock Factors of transferability for a generic convnet representation.
+\newblock \emph{IEEE transactions on pattern analysis and machine
+  intelligence}, 38\penalty0 (9):\penalty0 1790--1802, 2016.
+
+\bibitem[Baltru{\v{s}}aitis et~al.(2016)Baltru{\v{s}}aitis, Robinson, and
+  Morency]{baltruvsaitis2016openface}
+T.~Baltru{\v{s}}aitis, P.~Robinson, and L.-P. Morency.
+\newblock Openface: an open source facial behavior analysis toolkit.
+\newblock In \emph{Applications of Computer Vision (WACV), 2016 IEEE Winter
+  Conference on}, pages 1--10. IEEE, 2016.
+
+\bibitem[Barsoum et~al.(2016)Barsoum, Zhang, Ferrer, and
+  Zhang]{barsoum2016training}
+E.~Barsoum, C.~Zhang, C.~C. Ferrer, and Z.~Zhang.
+\newblock Training deep networks for facial expression recognition with
+  crowd-sourced label distribution.
+\newblock In \emph{Proceedings of the 18th ACM International Conference on
+  Multimodal Interaction}, pages 279--283. ACM, 2016.
+
+\bibitem[Berretti et~al.(2010)Berretti, Del~Bimbo, Pala, Amor, and
+  Daoudi]{berretti2010set}
+S.~Berretti, A.~Del~Bimbo, P.~Pala, B.~B. Amor, and M.~Daoudi.
+\newblock A set of selected sift features for 3d facial expression recognition.
+\newblock In \emph{Pattern Recognition (ICPR), 2010 20th International
+  Conference on}, pages 4125--4128. IEEE, 2010.
+
+\bibitem[Caruana()]{caruanamultitask}
+R.~Caruana.
+\newblock Multitask learning: A knowledge-based source of inductive bias1.
+\newblock In \emph{Proceedings of the Tenth International Conference on Machine
+  Learning}, pages 41--48. Citeseer.
+
+\bibitem[Collobert and Weston(2008)]{collobert2008unified}
+R.~Collobert and J.~Weston.
+\newblock A unified architecture for natural language processing: Deep neural
+  networks with multitask learning.
+\newblock In \emph{Proceedings of the 25th international conference on Machine
+  learning}, pages 160--167. ACM, 2008.
+
+\bibitem[Deng et~al.(2009)Deng, Dong, Socher, Li, Li, and
+  Fei-Fei]{deng2009imagenet}
+J.~Deng, W.~Dong, R.~Socher, L.-J. Li, K.~Li, and L.~Fei-Fei.
+\newblock Imagenet: A large-scale hierarchical image database.
+\newblock In \emph{Computer Vision and Pattern Recognition, 2009. CVPR 2009.
+  IEEE Conference on}, pages 248--255. IEEE, 2009.
+
+\bibitem[Deng et~al.(2013)Deng, Hinton, and Kingsbury]{deng2013new}
+L.~Deng, G.~Hinton, and B.~Kingsbury.
+\newblock New types of deep neural network learning for speech recognition and
+  related applications: An overview.
+\newblock In \emph{Acoustics, Speech and Signal Processing (ICASSP), 2013 IEEE
+  International Conference on}, pages 8599--8603. IEEE, 2013.
+
+\bibitem[D{\'e}niz et~al.(2011)D{\'e}niz, Bueno, Salido, and De~la
+  Torre]{deniz2011face}
+O.~D{\'e}niz, G.~Bueno, J.~Salido, and F.~De~la Torre.
+\newblock Face recognition using histograms of oriented gradients.
+\newblock \emph{Pattern Recognition Letters}, 32\penalty0 (12):\penalty0
+  1598--1603, 2011.
+
+\bibitem[Dhall et~al.(2014)Dhall, Goecke, Joshi, Sikka, and
+  Gedeon]{dhall2014emotion}
+A.~Dhall, R.~Goecke, J.~Joshi, K.~Sikka, and T.~Gedeon.
+\newblock Emotion recognition in the wild challenge 2014: Baseline, data and
+  protocol.
+\newblock In \emph{Proceedings of the 16th International Conference on
+  Multimodal Interaction}, pages 461--466. ACM, 2014.
+
+\bibitem[Donahue et~al.(2014)Donahue, Jia, Vinyals, Hoffman, Zhang, Tzeng, and
+  Darrell]{donahue2014decaf}
+J.~Donahue, Y.~Jia, O.~Vinyals, J.~Hoffman, N.~Zhang, E.~Tzeng, and T.~Darrell.
+\newblock Decaf: A deep convolutional activation feature for generic visual
+  recognition.
+\newblock In \emph{International conference on machine learning}, pages
+  647--655, 2014.
+
+\bibitem[Duong et~al.(2015)Duong, Cohn, Bird, and Cook]{duong2015low}
+L.~Duong, T.~Cohn, S.~Bird, and P.~Cook.
+\newblock Low resource dependency parsing: Cross-lingual parameter sharing in a
+  neural network parser.
+\newblock In \emph{Proceedings of the 53rd Annual Meeting of the Association
+  for Computational Linguistics and the 7th International Joint Conference on
+  Natural Language Processing (Volume 2: Short Papers)}, volume~2, pages
+  845--850, 2015.
+
+\bibitem[Ekman and Friesen(1971)]{ekman1971constants}
+P.~Ekman and W.~V. Friesen.
+\newblock Constants across cultures in the face and emotion.
+\newblock \emph{Journal of personality and social psychology}, 17\penalty0
+  (2):\penalty0 124, 1971.
+
+\bibitem[Ekman and Friesen(1978)]{ekman1978facial}
+P.~Ekman and W.~V. Friesen.
+\newblock \emph{Facial Action Coding System: Investigatoris Guide}.
+\newblock Consulting Psychologists Press, 1978.
+
+\bibitem[Girshick(2015)]{girshick2015fast}
+R.~Girshick.
+\newblock Fast r-cnn.
+\newblock \emph{arXiv preprint arXiv:1504.08083}, 2015.
+
+\bibitem[He et~al.(2016{\natexlab{a}})He, Zhang, Ren, and Sun]{he2016deep}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In \emph{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 770--778, 2016{\natexlab{a}}.
+
+\bibitem[He et~al.(2016{\natexlab{b}})He, Zhang, Ren, and Sun]{he2016identity}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun.
+\newblock Identity mappings in deep residual networks.
+\newblock In \emph{European Conference on Computer Vision}, pages 630--645.
+  Springer, 2016{\natexlab{b}}.
+
+\bibitem[Hornik et~al.(1989)Hornik, Stinchcombe, and
+  White]{hornik1989multilayer}
+K.~Hornik, M.~Stinchcombe, and H.~White.
+\newblock Multilayer feedforward networks are universal approximators.
+\newblock \emph{Neural networks}, 2\penalty0 (5):\penalty0 359--366, 1989.
+
+\bibitem[Huang et~al.(2017)Huang, Liu, Weinberger, and van~der
+  Maaten]{huang2017densely}
+G.~Huang, Z.~Liu, K.~Q. Weinberger, and L.~van~der Maaten.
+\newblock Densely connected convolutional networks.
+\newblock In \emph{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, volume~1, page~3, 2017.
+
+\bibitem[Ioffe and Szegedy(2015)]{ioffe2015batch}
+S.~Ioffe and C.~Szegedy.
+\newblock Batch normalization: Accelerating deep network training by reducing
+  internal covariate shift.
+\newblock In \emph{International conference on machine learning}, pages
+  448--456, 2015.
+
+\bibitem[Kingma and Ba(2014)]{kingma2014adam}
+D.~P. Kingma and J.~Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock \emph{arXiv preprint arXiv:1412.6980}, 2014.
+
+\bibitem[Krizhevsky and Hinton(2009)]{krizhevsky2009learning}
+A.~Krizhevsky and G.~Hinton.
+\newblock Learning multiple layers of features from tiny images.
+\newblock 2009.
+
+\bibitem[Krizhevsky et~al.(2012)Krizhevsky, Sutskever, and
+  Hinton]{krizhevsky2012imagenet}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  1097--1105, 2012.
+
+\bibitem[LeCun et~al.(1990)LeCun, Boser, Denker, Henderson, Howard, Hubbard,
+  and Jackel]{lecun1990handwritten}
+Y.~LeCun, B.~E. Boser, J.~S. Denker, D.~Henderson, R.~E. Howard, W.~E. Hubbard,
+  and L.~D. Jackel.
+\newblock Handwritten digit recognition with a back-propagation network.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  396--404, 1990.
+
+\bibitem[Lucey et~al.(2009)Lucey, Cohn, Lucey, Matthews, Sridharan, and
+  Prkachin]{lucey2009automatically}
+P.~Lucey, J.~Cohn, S.~Lucey, I.~Matthews, S.~Sridharan, and K.~M. Prkachin.
+\newblock Automatically detecting pain using facial actions.
+\newblock In \emph{Affective Computing and Intelligent Interaction and
+  Workshops, 2009. ACII 2009. 3rd International Conference on}, pages 1--8.
+  IEEE, 2009.
+
+\bibitem[Mollahosseini et~al.(2016)Mollahosseini, Chan, and
+  Mahoor]{mollahosseini2016going}
+A.~Mollahosseini, D.~Chan, and M.~H. Mahoor.
+\newblock Going deeper in facial expression recognition using deep neural
+  networks.
+\newblock In \emph{Applications of Computer Vision (WACV), 2016 IEEE Winter
+  Conference on}, pages 1--10. IEEE, 2016.
+
+\bibitem[Nair and Hinton(2010)]{nair2010rectified}
+V.~Nair and G.~E. Hinton.
+\newblock Rectified linear units improve restricted boltzmann machines.
+\newblock In \emph{Proceedings of the 27th international conference on machine
+  learning (ICML-10)}, pages 807--814, 2010.
+
+\bibitem[Netzer et~al.(2011)Netzer, Wang, Coates, Bissacco, Wu, and
+  Ng]{netzer2011reading}
+Y.~Netzer, T.~Wang, A.~Coates, A.~Bissacco, B.~Wu, and A.~Y. Ng.
+\newblock Reading digits in natural images with unsupervised feature learning.
+\newblock In \emph{NIPS workshop on deep learning and unsupervised feature
+  learning}, volume 2011, page~5, 2011.
+
+\bibitem[Parkhi et~al.(2015{\natexlab{a}})Parkhi, Vedaldi, and
+  Zisserman]{Parkhi15}
+O.~M. Parkhi, A.~Vedaldi, and A.~Zisserman.
+\newblock Deep face recognition.
+\newblock In \emph{British Machine Vision Conference}, 2015{\natexlab{a}}.
+
+\bibitem[Parkhi et~al.(2015{\natexlab{b}})Parkhi, Vedaldi, Zisserman,
+  et~al.]{parkhi2015deep}
+O.~M. Parkhi, A.~Vedaldi, A.~Zisserman, et~al.
+\newblock Deep face recognition.
+\newblock In \emph{BMVC}, volume~1, page~6, 2015{\natexlab{b}}.
+
+\bibitem[Ramsundar et~al.(2015)Ramsundar, Kearnes, Riley, Webster, Konerding,
+  and Pande]{ramsundar2015massively}
+B.~Ramsundar, S.~Kearnes, P.~Riley, D.~Webster, D.~Konerding, and V.~Pande.
+\newblock Massively multitask networks for drug discovery.
+\newblock \emph{arXiv preprint arXiv:1502.02072}, 2015.
+
+\bibitem[Razavian et~al.(2014)Razavian, Azizpour, Sullivan, and
+  Carlsson]{razavian2014cnn}
+A.~S. Razavian, H.~Azizpour, J.~Sullivan, and S.~Carlsson.
+\newblock Cnn features off-the-shelf: an astounding baseline for recognition.
+\newblock In \emph{Computer Vision and Pattern Recognition Workshops (CVPRW),
+  2014 IEEE Conference on}, pages 512--519. IEEE, 2014.
+
+\bibitem[Rothe et~al.(2015)Rothe, Timofte, and Van~Gool]{rothe2015dex}
+R.~Rothe, R.~Timofte, and L.~Van~Gool.
+\newblock Dex: Deep expectation of apparent age from a single image.
+\newblock In \emph{Proceedings of the IEEE International Conference on Computer
+  Vision Workshops}, pages 10--15, 2015.
+
+\bibitem[Sermanet et~al.(2013)Sermanet, Eigen, Zhang, Mathieu, Fergus, and
+  LeCun]{sermanet2013overfeat}
+P.~Sermanet, D.~Eigen, X.~Zhang, M.~Mathieu, R.~Fergus, and Y.~LeCun.
+\newblock Overfeat: Integrated recognition, localization and detection using
+  convolutional networks.
+\newblock \emph{arXiv preprint arXiv:1312.6229}, 2013.
+
+\bibitem[Shan et~al.(2009)Shan, Gong, and McOwan]{shan2009facial}
+C.~Shan, S.~Gong, and P.~W. McOwan.
+\newblock Facial expression recognition based on local binary patterns: A
+  comprehensive study.
+\newblock \emph{Image and Vision Computing}, 27\penalty0 (6):\penalty0
+  803--816, 2009.
+
+\bibitem[Simonyan and Zisserman(2014)]{simonyan2014very}
+K.~Simonyan and A.~Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock \emph{arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem[Srivastava et~al.(2014)Srivastava, Hinton, Krizhevsky, Sutskever, and
+  Salakhutdinov]{srivastava2014dropout}
+N.~Srivastava, G.~Hinton, A.~Krizhevsky, I.~Sutskever, and R.~Salakhutdinov.
+\newblock Dropout: A simple way to prevent neural networks from overfitting.
+\newblock \emph{The Journal of Machine Learning Research}, 15\penalty0
+  (1):\penalty0 1929--1958, 2014.
+
+\bibitem[Szegedy et~al.(2015)Szegedy, Liu, Jia, Sermanet, Reed, Anguelov,
+  Erhan, Vanhoucke, Rabinovich, et~al.]{szegedy2015going}
+C.~Szegedy, W.~Liu, Y.~Jia, P.~Sermanet, S.~Reed, D.~Anguelov, D.~Erhan,
+  V.~Vanhoucke, A.~Rabinovich, et~al.
+\newblock Going deeper with convolutions.
+\newblock Cvpr, 2015.
+
+\bibitem[Tang(2013)]{tang2013challenges}
+Y.~Tang.
+\newblock Challenges in representation learning: Facial expression recognition
+  challenge implementation.
+\newblock \emph{University of Toronto}, 2013.
+
+\bibitem[Tian et~al.(2001)Tian, Kanade, and Cohn]{tian2001recognizing}
+Y.-I. Tian, T.~Kanade, and J.~F. Cohn.
+\newblock Recognizing action units for facial expression analysis.
+\newblock \emph{IEEE Transactions on pattern analysis and machine
+  intelligence}, 23\penalty0 (2):\penalty0 97--115, 2001.
+
+\bibitem[Vinciarelli et~al.(2009)Vinciarelli, Pantic, and
+  Bourlard]{vinciarelli2009social}
+A.~Vinciarelli, M.~Pantic, and H.~Bourlard.
+\newblock Social signal processing: Survey of an emerging domain.
+\newblock \emph{Image and vision computing}, 27\penalty0 (12):\penalty0
+  1743--1759, 2009.
+
+\bibitem[Vural et~al.(2008)Vural, {\c{C}}etin, Er{\c{c}}il, Littlewort,
+  Bartlett, and Movellan]{vural2008automated}
+E.~Vural, M.~{\c{C}}etin, A.~Er{\c{c}}il, G.~Littlewort, M.~Bartlett, and
+  J.~Movellan.
+\newblock Automated drowsiness detection for improved driving safety.
+\newblock 2008.
+
+\bibitem[Wang and Ying(2012)]{wang2012facial}
+Z.~Wang and Z.~Ying.
+\newblock Facial expression recognition based on local phase quantization and
+  sparse representation.
+\newblock In \emph{Natural Computation (ICNC), 2012 Eighth International
+  Conference on}, pages 222--225. IEEE, 2012.
+
+\bibitem[Yosinski et~al.(2014)Yosinski, Clune, Bengio, and
+  Lipson]{yosinski2014transferable}
+J.~Yosinski, J.~Clune, Y.~Bengio, and H.~Lipson.
+\newblock How transferable are features in deep neural networks?
+\newblock In \emph{Advances in neural information processing systems}, pages
+  3320--3328, 2014.
+
+\bibitem[Yu and Zhang(2015)]{yu2015image}
+Z.~Yu and C.~Zhang.
+\newblock Image based static facial expression recognition with multiple deep
+  network learning.
+\newblock In \emph{Proceedings of the 2015 ACM on International Conference on
+  Multimodal Interaction}, pages 435--442. ACM, 2015.
+
+\bibitem[Zagoruyko and Komodakis(2016)]{zagoruyko2016wide}
+S.~Zagoruyko and N.~Komodakis.
+\newblock Wide residual networks.
+\newblock \emph{arXiv preprint arXiv:1605.07146}, 2016.
+
+\bibitem[Zeiler and Fergus(2013)]{zeiler2013stochastic}
+M.~D. Zeiler and R.~Fergus.
+\newblock Stochastic pooling for regularization of deep convolutional neural
+  networks.
+\newblock \emph{arXiv preprint arXiv:1301.3557}, 2013.
+
+\bibitem[Zhang(1999)]{zhang1999feature}
+Z.~Zhang.
+\newblock Feature-based facial expression recognition: Sensitivity analysis and
+  experiments with a multilayer perceptron.
+\newblock \emph{International journal of pattern recognition and Artificial
+  Intelligence}, 13\penalty0 (06):\penalty0 893--911, 1999.
+
+\bibitem[Zhao and Pietikainen(2007)]{zhao2007dynamic}
+G.~Zhao and M.~Pietikainen.
+\newblock Dynamic texture recognition using local binary patterns with an
+  application to facial expressions.
+\newblock \emph{IEEE transactions on pattern analysis and machine
+  intelligence}, 29\penalty0 (6):\penalty0 915--928, 2007.
+
+\end{thebibliography}

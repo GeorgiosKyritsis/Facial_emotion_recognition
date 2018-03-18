@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: report.aux
+The style file: abbrvnat.bst
+Database file #1: chapters/references.bib
+Warning--empty year in caruanamultitask
+Warning--empty year in caruanamultitask
+Warning--can't use both volume and number fields in huang2017densely
+Warning--empty journal in krizhevsky2009learning
+Warning--can't use both volume and number fields in netzer2011reading
+Warning--can't use both volume and number fields in parkhi2015deep
+Warning--empty booktitle in szegedy2015going
+Warning--empty journal in vural2008automated
+You've used 49 entries,
+            2773 wiz_defined-function locations,
+            850 strings with 14215 characters,
+and the built_in function-call counts, 27784 in all, are:
+= -- 2489
+> -- 1721
+< -- 47
++ -- 579
+- -- 528
+* -- 2217
+:= -- 4068
+add.period$ -- 161
+call.type$ -- 49
+change.case$ -- 320
+chr.to.int$ -- 47
+cite$ -- 106
+duplicate$ -- 1293
+empty$ -- 2181
+format.name$ -- 603
+if$ -- 6009
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 50
+newline$ -- 253
+num.names$ -- 196
+pop$ -- 720
+preamble$ -- 1
+purify$ -- 272
+quote$ -- 0
+skip$ -- 1052
+stack$ -- 0
+substring$ -- 1069
+swap$ -- 293
+text.length$ -- 30
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 534
+warning$ -- 8
+while$ -- 238
+width$ -- 0
+write$ -- 646
+(There were 8 warnings)

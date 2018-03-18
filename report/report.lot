@@ -1,0 +1,14 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.2}{\ignorespaces Number of faces per emotion for each dataset. NE: Neutral, HA: Happiness, SU: Surprise, SA: Sadness, AN: Anger, DI: Disgust, FE: Fear, CO: Contempt\relax }}{9}{table.caption.13}
+\contentsline {table}{\numberline {3.1}{\ignorespaces Action unit codes with their description and their association with basic emotional states.\relax }}{10}{table.caption.11}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces Accuracies from Convolutional Neural Networks\relax }}{29}{table.caption.36}
+\contentsline {table}{\numberline {7.2}{\ignorespaces Accuracies from Transfer Learning\relax }}{31}{table.caption.37}
+\contentsline {table}{\numberline {7.3}{\ignorespaces Accuracy from Multi-task learning\relax }}{31}{table.caption.38}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

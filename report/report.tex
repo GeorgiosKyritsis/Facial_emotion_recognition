@@ -1,0 +1,117 @@
+\documentclass[12pt,twoside]{book}
+
+\input{head/settings.tex}
+
+\begin{document}
+
+\begin{titlepage}
+\begin{center}
+
+\begin{minipage}{.4\textwidth}
+    \centering
+    \includegraphics[width=0.5\textwidth]{epfl.png}~\\[0.7cm]
+    \textsc{Laboratory of \\ Artificial Intelligence}\\[1.5cm]
+\end{minipage}
+\hspace{2cm}
+\begin{minipage}{0.4\textwidth}
+    \centering
+    \includegraphics[width=0.8\textwidth]{swisscom.png}~\\[0.21cm]
+    \textsc{Artificial Intelligence \& Machine Learning Group}\\[1.5cm]
+\end{minipage}
+
+\vspace{2cm}
+
+\textsc{\Large Master Thesis}\\[1.5cm]
+
+% Title
+\noindent\rule{15cm}{0.4pt} \\ [0.4cm]
+{ \huge \bfseries Deep Models and Transfer Learning for Facial Emotion Recognition \\[0.4cm] }
+\noindent\rule{15cm}{0.4pt}
+
+\vspace{1.5cm}
+
+\begin{center}
+    {\Large Georgios Kyritsis}
+\end{center}
+
+\vspace{2cm}
+
+\noindent
+\begin{flushleft}
+
+\begin{minipage}[t]{0.5\textwidth}
+\begin{flushleft} \large
+\emph{Supervisors} \\
+\vspace{0.5cm}
+\begin{tabular}{ll}
+EPFL:     & Prof. Boi Faltings \\
+Swisscom: & Dr. Claudiu Musat 
+\end{tabular}
+\end{flushleft}
+\end{minipage}%
+\end{flushleft}
+
+\vfill
+
+% Bottom of the page
+{\large March 16, 2018}
+
+\end{center}
+\end{titlepage}
+
+\afterpage{\blankpage}
+
+\frontmatter
+
+\addcontentsline{toc}{chapter}{Abstract}
+\chapter*{Abstract}
+\input{chapters/abstract.tex}
+
+\chapter*{Acknowledgements}%
+\addcontentsline{toc}{chapter}{Acknowledgements}%
+\input{chapters/acknowledgements.tex}
+
+\tableofcontents
+
+\listoffigures
+%\afterpage{\blankpage}
+
+\listoftables
+%\afterpage{\blankpage}
+
+\mainmatter
+
+\chapter{Introduction} \label{ch:introduction}
+\input{chapters/c1_introduction}
+
+\chapter{Related Work} \label{ch:related work}
+\input{chapters/c2_related_work}
+
+\chapter{Datasets} \label{ch:datasets}
+\input{chapters/c3_datasets}
+
+\chapter{Architectures} \label{ch:architectures}
+\input{chapters/c4_architectures}
+
+\chapter{Transfer Learning} \label{ch:transfer learning}
+\input{chapters/c5_transfer_learning}
+
+\chapter{Multi-task learning} \label{ch:multi-task learning}
+\input{chapters/c6_multitask_learning}
+
+\chapter{Experiments \& Results} \label{ch:experiments and results}
+\input{chapters/c7_experiments_results}
+
+\chapter{Best Architecture} \label{ch:best algorithm}
+\input{chapters/c8_best_algorithm}
+
+\chapter{Conclusion} \label{ch:conclusion}
+\input{chapters/conclusion}
+
+%\appendix
+%\chapter{Appendix}
+%\input{chapters/appendix}
+
+\bibliography{chapters/references}
+
+\end{document}
